@@ -1,2 +1,2 @@
 # survey-data
-Exploratory Data Analysis pada data survei yang dilakukan terhadap kaum muda berusia antara 15–30 tahun. Terdapat beberapa kategori dalam survei yang dilakukan, yaitu menyangkut hobi atau minat, ketakutan (phobia), kepribadian, keuangan, dan demografi.
+Exploratory Data Analysis on survey data conducted on young people aged 15-30 years. There are several categories in the survey conducted, namely those related to hobbies or interests, fear (phobia), personality, finances, and demographics.
